@@ -504,8 +504,15 @@ blockquote {
 }
 
 .resume-link {
+  display: inline;
+  font-size: inherit;
+  line-height: inherit;
+  font-family: inherit;
+  font-weight: inherit;
   color: var(--accent);
-  word-break: break-all;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  vertical-align: baseline;
 }
 
 .page-center-hub .page-container {
