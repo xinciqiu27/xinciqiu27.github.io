@@ -10,13 +10,11 @@ title: Function-guided ELDA 阅读笔记
 ---
 
 ## 一、论文概述
-| 项目 | 内容 |
-|---|---|
-| 论文题目 | Function-guided Extended Latent Dirichlet Allocation Model for Complementary Cloud API Recommendation in Mashup Development |
-| 作者 | Zhen Chen, Xiaolong Wang, Denghui Xie, Haonan Liao, Dianlong You |
-| 期刊/会议 | Journal of Software: Evolution and Process, 38(1), 2026 |
-| 论文链接 | https://doi.org/10.1002/smr.70078 |
-| 论文代码 | 未见公开代码链接 |
+论文题目：Function-guided Extended Latent Dirichlet Allocation Model for Complementary Cloud API Recommendation in Mashup Development
+作者：Zhen Chen, Xiaolong Wang, Denghui Xie, Haonan Liao, Dianlong You
+期刊/会议：Journal of Software: Evolution and Process, 38(1), 2026
+论文链接：https://doi.org/10.1002/smr.70078
+论文代码：未见公开代码链接
 
 ---
 

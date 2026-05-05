@@ -10,13 +10,11 @@ title: Spherical Hashing API 推荐阅读笔记
 ---
 
 ## 一、论文概述
-| 项目 | 内容 |
-|---|---|
-| 论文题目 | A Privacy-preserving API Recommendation Method based on Spherical Hashing |
-| 作者 | Guangming Zhao, Shanshan Wang |
-| 期刊/会议 | IEEE Transactions on Consumer Electronics（投稿版，2025） |
-| 论文链接 | 正式 DOI 待补（当前为投稿版） |
-| 论文代码 | 未见公开代码链接 |
+论文题目：A Privacy-preserving API Recommendation Method based on Spherical Hashing
+作者：Guangming Zhao, Shanshan Wang
+期刊/会议：IEEE Transactions on Consumer Electronics（投稿版，2025）
+论文链接：正式 DOI 待补（当前为投稿版）
+论文代码：未见公开代码链接
 
 ---
 

@@ -10,13 +10,11 @@ title: SLGGCL 阅读笔记
 ---
 
 ## 一、论文概述
-| 项目 | 内容 |
-|---|---|
-| 论文题目 | Simultaneously Local and Global Contrastive Learning of Graph Representations |
-| 作者 | Shuai An, Binsheng Hong, Zhaori Guo, Shunzhi Zhu, Kaibiao Lin, Fan Yang |
-| 期刊/会议 | Engineering Applications of Artificial Intelligence, 2025 |
-| 论文链接 | https://doi.org/10.1016/j.engappai.2025.110203 |
-| 论文代码 | 未见公开代码链接 |
+论文题目：Simultaneously Local and Global Contrastive Learning of Graph Representations
+作者：Shuai An, Binsheng Hong, Zhaori Guo, Shunzhi Zhu, Kaibiao Lin, Fan Yang
+期刊/会议：Engineering Applications of Artificial Intelligence, 2025
+论文链接：https://doi.org/10.1016/j.engappai.2025.110203
+论文代码：未见公开代码链接
 
 ---
 

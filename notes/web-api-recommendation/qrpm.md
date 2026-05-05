@@ -10,13 +10,11 @@ title: QRPM 阅读笔记
 ---
 
 ## 一、论文概述
-| 项目 | 内容 |
-|---|---|
-| 论文题目 | Extending Process Intelligence with Quantity-Related Process Mining |
-| 作者 | Nina Graves, Tobias Brockhoff, István Koren, Wil M. P. van der Aalst |
-| 期刊/会议 | ICPM 2024 Workshops, LNBIP 533, pp. 337-349, 2025 |
-| 论文链接 | https://doi.org/10.1007/978-3-031-82225-4_25 |
-| 论文代码 | https://github.com/rwth-pads/qrpm.git |
+论文题目：Extending Process Intelligence with Quantity-Related Process Mining
+作者：Nina Graves, Tobias Brockhoff, István Koren, Wil M. P. van der Aalst
+期刊/会议：ICPM 2024 Workshops, LNBIP 533, pp. 337-349, 2025
+论文链接：https://doi.org/10.1007/978-3-031-82225-4_25
+论文代码：https://github.com/rwth-pads/qrpm.git
 
 ---
 
