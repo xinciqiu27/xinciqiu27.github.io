@@ -28,7 +28,7 @@ description: 学习过程、论文阅读与阶段性总结
     <p class="hub-kicker">Status</p>
     <h2>当前进度</h2>
     <ul class="hub-note-list">
-      <li>Web API Recommendation 方向论文笔记已补齐并建立目录入口</li>
+      <li>Web API Recommendation 方向持续更新论文笔记</li>
       <li>LLM Safety 方向持续补充论文精读</li>
       <li>后续继续补充重要概念解释与研究问题总结</li>
     </ul>
