@@ -10,13 +10,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
-<body>
-  <div class="page-backdrop" aria-hidden="true">
-    <span class="backdrop-orb backdrop-orb--one"></span>
-    <span class="backdrop-orb backdrop-orb--two"></span>
-    <span class="backdrop-orb backdrop-orb--three"></span>
-  </div>
-
+<body class="page-{{ page.page_style | default: 'default' }}">
   <header class="site-header">
     <div class="nav-container">
       <a class="site-title" href="{{ '/' | relative_url }}">裘芯慈</a>
@@ -29,7 +23,7 @@
   </header>
 
   <main class="page-shell">
-    <article class="page-container">
+    <article class="page-container page-container--{{ page.page_style | default: 'default' }}">
       {{ content }}
     </article>
   </main>
@@ -44,7 +38,12 @@
         return;
       }
 
-      var items = document.querySelectorAll(".page-container > *");
+      var items = document.querySelectorAll(
+        ".page-container > *:not(.resume-grid):not(.hub-stack), " +
+        ".page-container > .resume-grid > .resume-card, " +
+        ".page-container > .resume-grid > .resume-card .resume-grid > .resume-card, " +
+        ".page-container > .hub-stack > *"
+      );
       if (!items.length) {
         return;
       }
