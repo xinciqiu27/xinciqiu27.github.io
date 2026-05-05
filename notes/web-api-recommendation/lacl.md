@@ -10,11 +10,11 @@ title: LACL 阅读笔记
 ---
 
 ## 一、论文概述
-论文题目：LACL: Overcoming Semantic Sparsity in Mashup Development via LLM-Enhanced Service Bundle Recommendation
-作者：Kaipu Sun, Wen Tang, Yechen Jin, Meng Xi, Jiacheng Pan, Ying Li, Jianwei Yin
-期刊/会议：IEEE Transactions on Services Computing, 2026
-论文链接：https://doi.org/10.1109/TSC.2026.3656398
-论文代码：未见公开代码链接
+- 论文题目：LACL: Overcoming Semantic Sparsity in Mashup Development via LLM-Enhanced Service Bundle Recommendation
+- 作者：Kaipu Sun, Wen Tang, Yechen Jin, Meng Xi, Jiacheng Pan, Ying Li, Jianwei Yin
+- 期刊/会议：IEEE Transactions on Services Computing, 2026
+- 论文链接：https://doi.org/10.1109/TSC.2026.3656398
+- 论文代码：未见公开代码链接
 
 ---
 

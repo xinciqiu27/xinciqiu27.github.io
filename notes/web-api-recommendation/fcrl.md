@@ -10,11 +10,11 @@ title: FCRL 阅读笔记
 ---
 
 ## 一、论文概述
-论文题目：Functional Complementarity-aware Representation Learning for Cold-start Recommendation in Mashup Creation
-作者：Wenhui Chen, Mengmeng Sun, Yueshen Xu, Xiaowei Liu, Jinyu Chen, Zhen Chen
-期刊/会议：IEEE Transactions on Consumer Electronics, 72(1): 520-532, 2026
-论文链接：正式 DOI 待补，可参考 dblp 条目 `journals/tce/ChenSXLCC26`
-论文代码：https://github.com/whitewolf666/FCRL
+- 论文题目：Functional Complementarity-aware Representation Learning for Cold-start Recommendation in Mashup Creation
+- 作者：Wenhui Chen, Mengmeng Sun, Yueshen Xu, Xiaowei Liu, Jinyu Chen, Zhen Chen
+- 期刊/会议：IEEE Transactions on Consumer Electronics, 72(1): 520-532, 2026
+- 论文链接：正式 DOI 待补，可参考 dblp 条目 `journals/tce/ChenSXLCC26`
+- 论文代码：https://github.com/whitewolf666/FCRL
 
 ---
 

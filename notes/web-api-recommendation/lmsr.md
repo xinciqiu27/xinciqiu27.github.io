@@ -10,11 +10,11 @@ title: LMSR 阅读笔记
 ---
 
 ## 一、论文概述
-论文题目：LMSR: LLM-enhanced Multi-perspective Service Feature Learning for Web API Recommendation
-作者：Song Yang, Guobing Zou, Shengxiang Hu, Shengye Pang, Yanglan Gan, Bofeng Zhang, Yixin Chen
-期刊/会议：IEEE Transactions on Services Computing（投稿版，2025）
-论文链接：正式 DOI 待补（当前为投稿版）
-论文代码：https://scdm-shu.github.io/codes/LMSR.zip
+- 论文题目：LMSR: LLM-enhanced Multi-perspective Service Feature Learning for Web API Recommendation
+- 作者：Song Yang, Guobing Zou, Shengxiang Hu, Shengye Pang, Yanglan Gan, Bofeng Zhang, Yixin Chen
+- 期刊/会议：IEEE Transactions on Services Computing（投稿版，2025）
+- 论文链接：正式 DOI 待补（当前为投稿版）
+- 论文代码：https://scdm-shu.github.io/codes/LMSR.zip
 
 ---
 
