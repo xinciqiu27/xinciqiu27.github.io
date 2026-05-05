@@ -3,24 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {% assign current_url = page.url | replace: 'index.html', '' %}
-  {% assign page_style = page.page_style | default: 'article' %}
   {% assign meta_title = page.title | default: site.title %}
+  {% assign current_url = page.url | replace: 'index.html', '' %}
   <title>{% if current_url == '/' %}{{ site.title }}{% else %}{{ meta_title }} | {{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
-<body class="page-{{ page_style }}">
+<body>
+  <div class="page-backdrop" aria-hidden="true">
+    <span class="backdrop-orb backdrop-orb--one"></span>
+    <span class="backdrop-orb backdrop-orb--two"></span>
+    <span class="backdrop-orb backdrop-orb--three"></span>
+  </div>
+
   <header class="site-header">
     <div class="nav-container">
-      <a class="site-brand" href="{{ '/' | relative_url }}">
-        <span class="brand-mark">QX</span>
-        <span class="brand-copy">
-          <strong>{{ site.title }}</strong>
-          <span>Research Portfolio &amp; Notes</span>
-        </span>
-      </a>
+      <a class="site-title" href="{{ '/' | relative_url }}">裘芯慈</a>
       <nav class="site-nav" aria-label="主导航">
         <a class="{% if current_url == '/' %}is-active{% endif %}" href="{{ '/' | relative_url }}">首页</a>
         <a class="{% if current_url contains '/achievements/' %}is-active{% endif %}" href="{{ '/achievements/' | relative_url }}">成果展示</a>
@@ -30,16 +29,44 @@
   </header>
 
   <main class="page-shell">
-    <div class="page-frame {% if page_style == 'landing' %}page-frame--landing{% else %}page-frame--article{% endif %}">
+    <article class="page-container">
       {{ content }}
-    </div>
+    </article>
   </main>
 
   <footer class="site-footer">
-    <div class="footer-inner">
-      <p>{{ site.title }} · {{ site.description }}</p>
-      <p>© {{ site.time | date: '%Y' }} Built with GitHub Pages</p>
-    </div>
+    <p>© {{ site.time | date: '%Y' }} 裘芯慈 · Built with GitHub Pages</p>
   </footer>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        return;
+      }
+
+      var items = document.querySelectorAll(".page-container > *");
+      if (!items.length) {
+        return;
+      }
+
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            observer.unobserve(entry.target);
+          }
+        });
+      }, {
+        threshold: 0.12,
+        rootMargin: "0px 0px -8% 0px"
+      });
+
+      items.forEach(function (item, index) {
+        item.classList.add("reveal-item");
+        item.style.setProperty("--reveal-delay", Math.min(index * 55, 320) + "ms");
+        observer.observe(item);
+      });
+    });
+  </script>
 </body>
 </html>
