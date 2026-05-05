@@ -15,7 +15,7 @@ description: 学习过程、论文阅读与阶段性总结
   <article class="hub-card">
     <span class="hub-card__label">方向 01</span>
     <h2><a href="{{ '/notes/web-api-recommendation/' | relative_url }}">Web API Recommendation</a></h2>
-    <p>这是我本科阶段主要研究方向，重点关注 Web API 推荐、服务计算、图协同过滤、多模态推荐和互补推荐等内容。</p>
+    <p>这是我本科阶段主要研究方向，重点关注 Web API 推荐、服务计算、图协同过滤、多模态推荐和互补推荐等内容。目前已整理该方向的论文笔记目录，可从这里直接进入。</p>
   </article>
 
   <article class="hub-card">
@@ -25,14 +25,12 @@ description: 学习过程、论文阅读与阶段性总结
   </article>
 
   <section class="hub-summary">
-    <p class="hub-kicker">Plan</p>
-    <h2>更新计划</h2>
+    <p class="hub-kicker">Status</p>
+    <h2>当前进度</h2>
     <ul class="hub-note-list">
-      <li>Web API 推荐方向的基础概念与论文笔记</li>
-      <li>LLM Safety 方向论文精读</li>
-      <li>重要概念解释</li>
-      <li>研究问题总结</li>
-      <li>论文框架拆解</li>
+      <li>Web API Recommendation 方向论文笔记已补齐并建立目录入口</li>
+      <li>LLM Safety 方向持续补充论文精读</li>
+      <li>后续继续补充重要概念解释与研究问题总结</li>
     </ul>
   </section>
 </section>
