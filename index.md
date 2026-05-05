@@ -19,8 +19,8 @@ description: 裘芯慈简历主页
 
 <section class="resume-grid">
   <article class="resume-card resume-card--span-8">
-    <span class="resume-card__label">教育背景</span>
-    <h2>湖南科技大学 · 信息安全专业</h2>
+    <h2 class="resume-card__section">教育背景</h2>
+    <h3 class="resume-card__subtitle">湖南科技大学 · 信息安全专业</h3>
     <p>本科 · 2023年9月 - 2027年6月</p>
     <div class="resume-meta-grid">
       <div class="meta-chip">
@@ -38,7 +38,7 @@ description: 裘芯慈简历主页
   </article>
 
   <article class="resume-card resume-card--span-4">
-    <span class="resume-card__label">个人信息</span>
+    <h2 class="resume-card__section">个人信息</h2>
     <ul class="resume-list">
       <li><strong>姓名</strong>裘芯慈</li>
       <li><strong>性别</strong>女</li>
@@ -50,7 +50,7 @@ description: 裘芯慈简历主页
   </article>
 
   <article class="resume-card resume-card--span-12">
-    <span class="resume-card__label">科研成果</span>
+    <h2 class="resume-card__section">科研成果</h2>
     <div class="resume-grid">
       <section class="resume-card resume-card--span-6">
         <p class="resume-card__meta">CCF B类会议 · ICSOC 2025 · 第二作者</p>
@@ -68,9 +68,9 @@ description: 裘芯慈简历主页
   </article>
 
   <article class="resume-card resume-card--span-7">
-    <span class="resume-card__label">项目经历</span>
+    <h2 class="resume-card__section">项目经历</h2>
     <p class="resume-card__meta">2025.12 - 2026.04</p>
-    <h2>基于开源 AI 大模型的教学实训智能体平台</h2>
+    <h3 class="resume-card__subtitle">基于开源 AI 大模型的教学实训智能体平台</h3>
     <p><strong>项目简介：</strong>开发了一个教学实训智能体平台，接入了 DeepSeek-R1 模型。该模型在项目中作为 AI 助手，辅助教师备课以及考核内容生成，同时为学生提供在线答疑服务，解决传统实训教学存在效率低、互动性弱以及缺乏个性化指导等问题。</p>
     <p><strong>技术栈：</strong>SpringBoot + MySQL + MyBatis-Plus + AI大模型。</p>
     <p><strong>项目职责：</strong>负责教师端、学生端以及管理端相关功能的实现以及大模型的接入。</p>
@@ -78,7 +78,7 @@ description: 裘芯慈简历主页
   </article>
 
   <article class="resume-card resume-card--span-5">
-    <span class="resume-card__label">竞赛获奖</span>
+    <h2 class="resume-card__section">竞赛获奖</h2>
     <ul class="resume-award-list">
       <li>第十五届 MathorCup 数学应用挑战赛全国三等奖 · 2025.06</li>
       <li>第三十二届湖南省大学生数学建模竞赛一等奖 · 2025.12</li>
@@ -88,7 +88,7 @@ description: 裘芯慈简历主页
   </article>
 
   <article class="resume-card resume-card--span-12">
-    <span class="resume-card__label">专业技能</span>
+    <h2 class="resume-card__section">专业技能</h2>
     <ul class="resume-skill-list">
       <li>具备一定的编程能力，熟悉 C、Java、Python 编程语言，熟悉 Vibe Coding。</li>
       <li>掌握 Overleaf、Visio 等科研工具，熟悉 LaTex、MarkDown 语法。</li>
