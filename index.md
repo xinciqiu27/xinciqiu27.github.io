@@ -7,7 +7,7 @@ description: 裘芯慈简历主页
 
 <section class="resume-hero">
   <p class="resume-kicker">Resume</p>
-  <h1>欢迎光临裘芯慈的主页</h1>
+  <h1>裘芯慈</h1>
   <p class="resume-subtitle">湖南科技大学 · 计算机科学与工程学院 · 信息安全专业本科生</p>
   <div class="resume-contact">
     <span class="contact-chip">浙江温州</span>
