@@ -170,6 +170,25 @@ strong {
   background-size: 100% 36%;
 }
 
+.inline-link-subtle,
+.page-container .inline-link-subtle {
+  font-size: inherit;
+  line-height: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  color: var(--muted);
+  background-image: none;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.12em;
+}
+
+.inline-link-subtle:hover,
+.page-container .inline-link-subtle:hover {
+  color: var(--accent-strong);
+  background-size: 0 0;
+}
+
 hr {
   height: 1px;
   margin: 30px 0;

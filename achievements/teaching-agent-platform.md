@@ -11,7 +11,7 @@ title: 教学实训智能体平台
 - 时间：2025.12 - 2026.04
 - 技术栈：SpringBoot, MySQL, MyBatis-Plus, AI 大模型
 - 模型接入：DeepSeek-R1
-- 项目地址：[点击访问项目主页](http://47.111.165.244/)
+- 项目地址：<a class="inline-link-subtle" href="http://47.111.165.244/" target="_blank" rel="noreferrer">点击访问项目主页</a>
 ---
 
 ## 项目简介
