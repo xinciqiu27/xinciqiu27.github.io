@@ -5,8 +5,7 @@ title: Web API Recommendation 学习笔记
 
 # Web API Recommendation 学习笔记
 
-本栏目用于整理我在 Web API / Cloud API 推荐方向及其相关方法文献中的阅读笔记。
-当前内容依据 `D:\Scientific Research` 中的原始论文资料补齐，并按用户要求排除了 `TSSGCF`、`新增表征` 和 `翻译` 目录。
+本栏目用于整理我在 Web API / Cloud API 推荐方向及其相关方法文献中的阅读笔记。主要记录论文的大致思路以及我的小思考。
 
 ---
 
