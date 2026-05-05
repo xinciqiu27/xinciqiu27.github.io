@@ -15,7 +15,6 @@ title: MGCL 阅读笔记
 | 论文题目 | Multi-level Graph Contrastive Learning for Cold-start Recommendation in Mashup Development |
 | 作者 | Mengmeng Sun, Yueshen Xu, Zeyu Tan, Dianlong You, Zhen Chen |
 | 期刊/会议 | Information Sciences 717 (2025) 122319 |
-| 研究任务 | Mashup 冷启动云 API 推荐 |
 | 论文链接 | https://doi.org/10.1016/j.ins.2025.122319 |
 | 论文代码 | https://github.com/MengMeng3399/MGCL |
 

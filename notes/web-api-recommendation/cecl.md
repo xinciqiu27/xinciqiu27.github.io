@@ -15,7 +15,6 @@ title: CECL 阅读笔记
 | 论文题目 | Self-supervised Category-enhanced Graph Neural Networks for Recommendation |
 | 作者 | Funing Yang, Haihui Du, Xingliang Zhang, Yongjian Yang, Ying Wang |
 | 期刊/会议 | Knowledge-Based Systems, 2025 |
-| 研究任务 | 通用推荐中的类别增强图对比学习 |
 | 论文链接 | https://doi.org/10.1016/j.knosys.2025.113109 |
 | 论文代码 | https://github.com/shark-art/Code |
 

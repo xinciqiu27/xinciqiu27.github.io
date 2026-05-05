@@ -15,7 +15,6 @@ title: SRA-CL 阅读笔记
 | 论文题目 | SRA-CL: Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation |
 | 作者 | Ziqiang Cui, Yunpeng Weng, Xing Tang, Xiaokun Zhang, Shiwei Li, Peiyang Liu, Bowei He, Dugang Liu, Weihong Luo, Xiuqiang He, Chen Ma |
 | 期刊/会议 | NeurIPS 2025 |
-| 研究任务 | 序列推荐中的语义检索增强对比学习 |
 | 论文链接 | https://arxiv.org/abs/2505.10789 |
 | 论文代码 | https://github.com/ziqiangcui/SRA-CL |
 

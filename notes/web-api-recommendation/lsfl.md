@@ -13,11 +13,10 @@ title: LSFL 阅读笔记
 | 项目 | 内容 |
 |---|---|
 | 论文题目 | Multi-level Collaborative Relation Graphs Enhanced LLM for Web Service Recommendation |
-| 作者 | 投稿版 PDF 的作者栏在当前文本层抽取中缺失，需以正式刊发版为准 |
+| 作者 | 投稿版 PDF 作者栏抽取不完整，需以正式刊发版为准 |
 | 期刊/会议 | ACM Transactions on Knowledge Discovery from Data（投稿版，2025） |
-| 研究任务 | 面向新 Mashup 需求的 Web API 推荐 |
-| 论文链接 | 投稿版首页 DOI 仍为占位符 `10.1145/nnnnnnn.nnnnnnn`，正式刊发链接待补 |
-| 论文代码 | 论文首页未给出公开代码链接 |
+| 论文链接 | 正式 DOI 待补（当前为投稿版，占位 DOI `10.1145/nnnnnnn.nnnnnnn`） |
+| 论文代码 | 未见公开代码链接 |
 
 ---
 

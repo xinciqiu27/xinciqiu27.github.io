@@ -15,9 +15,8 @@ title: MDCL 阅读笔记
 | 论文题目 | Multi-level Dual Contrastive Learning for Cloud API Cold-Start Recommendation |
 | 作者 | Mengmeng Sun, Yueshen Xu, Dianlong You, Zhen Chen |
 | 期刊/会议 | Knowledge-Based Systems（预出版版，2026） |
-| 研究任务 | 新发布云 API 的冷启动推荐 |
 | 论文链接 | https://doi.org/10.1016/j.knosys.2026.115534 |
-| 论文代码 | 论文首页未给出公开代码链接 |
+| 论文代码 | 未见公开代码链接 |
 
 ---
 

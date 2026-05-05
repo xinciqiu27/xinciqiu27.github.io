@@ -15,9 +15,8 @@ title: GLSCL 阅读笔记
 | 论文题目 | GLSCL: Graph Local Similarity Contrastive Learning for Recommendation |
 | 作者 | Zhou Zhou, Zheng Hu, Shi-Min Cai, Tao Zhou |
 | 期刊/会议 | Expert Systems With Applications 284 (2025) 127855 |
-| 研究任务 | 通用推荐中的图对比学习增强 |
 | 论文链接 | https://doi.org/10.1016/j.eswa.2025.127855 |
-| 论文代码 | 论文首页未给出公开代码链接 |
+| 论文代码 | 未见公开代码链接 |
 
 ---
 

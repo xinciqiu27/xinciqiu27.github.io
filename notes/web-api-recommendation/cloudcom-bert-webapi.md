@@ -15,9 +15,8 @@ title: BERT-based Web API Recommendation 阅读笔记
 | 论文题目 | Evaluating Fine-tuned BERT-based Language Models for Web API Recommendation |
 | 作者 | Khuhaib Amiad Alam, Muhammad Haroon |
 | 期刊/会议 | IEEE CloudCom 2024, pp. 135-142 |
-| 研究任务 | 面向 Mashup 创建的自然语言驱动 Web API 推荐 |
 | 论文链接 | https://doi.org/10.1109/CLOUDCOM62794.2024.00032 |
-| 论文代码 | 论文首页未给出公开代码链接 |
+| 论文代码 | 未见公开代码链接 |
 
 ---
 
