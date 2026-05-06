@@ -15,7 +15,7 @@ title: MULTIPUN 阅读笔记
 |---|---|
 | 论文题目 | “I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns? |
 | 作者 | Naen Xu, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Tianyu Du, Jun Wang, Zhihui Fu, Jinbao Li, Shouling Ji |
-| 期刊/会议 | arXiv:2604.05930v1, 2026 |
+| 期刊/会议 | ACL Main 2026；arXiv:2604.05930v1, 2026 |
 | 论文链接 | https://arxiv.org/abs/2604.05930 |
 | 论文代码 | 论文片段未明确给出代码仓库 |
 
@@ -45,7 +45,7 @@ title: MULTIPUN 阅读笔记
 
 ---
 
-### 3. 小白友好的背景知识补充
+### 3. 背景知识补充
 
 #### 3.1 什么是双关？
 
@@ -156,7 +156,7 @@ wp, wa, Sp, Sa
 
 ---
 
-### 6. 其他补充：我认为容易忽略但很重要的细节
+### 6. 我认为重要的细节
 
 MULTIPUN 的负样本设计是全文精华之一。
 
