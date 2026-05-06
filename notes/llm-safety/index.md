@@ -14,7 +14,6 @@ title: LLM Safety 学习笔记
 ## 论文阅读笔记
 
 - [FraudShield 阅读笔记](fraudshield.html)
-- [TEXTBUGGER 阅读笔记](textbugger.html)
 - [MULTIPUN 阅读笔记](multipun.html)
 - [MANBENCH 阅读笔记](manbench.html)
 - [OpenClaw 安全问题学习笔记](openclaw.html)

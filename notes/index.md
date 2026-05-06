@@ -21,7 +21,7 @@ description: 学习过程、论文阅读与阶段性总结
   <article class="hub-card">
     <span class="hub-card__label">方向 02</span>
     <h2><a href="{{ '/notes/llm-safety/' | relative_url }}">LLM Safety / Trustworthy AI</a></h2>
-    <p>这是我近期开始系统学习的新方向，主要关注大语言模型安全、对抗攻击、防御机制、可信推理和多智能体可靠性等内容。</p>
+    <p>这是我近期了解、学习的新方向，主要关注大语言模型安全、对抗攻击、防御机制、可信推理和多智能体可靠性等内容。</p>
   </article>
 
   <section class="hub-summary">
